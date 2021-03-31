@@ -8,7 +8,7 @@
       </div>
       <div class="col-lg mr-auto">
         <p>
-          I am a 19 year old free time developer from Luxembourg who learns and
+          I am a 19 year old developer from Luxembourg who learns and
           practices programing languages to create interesting projects and
           useful applications.
         </p>

@@ -12,6 +12,9 @@
     <a href="https://twitter.com/Inkuantum" class="column">
       <ion-icon name="logo-twitter" />
     </a>
+    <a href="https://dev.to/inkuantum" class="column">
+      <ion-icon name="newspaper-outline"/>
+    </a>
     <a href="mailto:ikirill2001@gmail.com" class="column">
       <ion-icon name="mail-outline" />
     </a>
@@ -35,7 +38,7 @@ export default {
 }
 
 .column {
-  width: 25%;
+  width: 20%;
   float: left;
   background-color: #000;
   border-right: #fff solid 1px;

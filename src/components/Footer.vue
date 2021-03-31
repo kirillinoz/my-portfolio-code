@@ -6,7 +6,7 @@
       and <ion-icon name="heart-outline"></ion-icon>
       by Kirill Inoz © 2020
     </p>
-    <p class="caption">inkuantum.com <span>v.1.0.5</span></p>
+    <p class="caption">inkuantum.com <span>v.1.0.6</span></p>
   </div>
 </template>
 

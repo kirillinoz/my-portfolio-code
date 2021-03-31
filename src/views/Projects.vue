@@ -87,11 +87,82 @@ export default {
             "This website represents a fictional streaming service called Action+. It offers beloved and origial movies to their customers for a subsription of their choice.",
           demo: {
             text: "Demo",
-            link: "https://pedantic-boyd-67cb48.netlify.app",
+            link: "https://action-plus.netlify.app",
           },
           code: {
             text: "Code",
             link: "https://github.com/Inkuantum/action-plus-website",
+          },
+        },
+        {
+          id: 3,
+          title: "Product Price Tracker",
+          img: require("../assets/projects/product-price-tracker.png"),
+          description:
+            "A simple web scraper which tracks the price of one or multiple products. If there is an update in the price, it will let you know by sending an email.",
+          code: {
+            text: "Code",
+            link: "https://github.com/Inkuantum/product-price-tracker",
+          },
+        },
+        {
+          id: 4,
+          title: "50 Projects in 50 Days",
+          img: require("../assets/projects/50p50d.png"),
+          description:
+            `50 small (HTML, CSS and JS) projects made in 50 Days! My 50th project is "Bug Game" and it's available to play online.`,
+          demo: {
+            text: "Bug Game",
+            link: "https://pedantic-boyd-67cb48.netlify.app",
+          },
+          code: {
+            text: "Code & Demos",
+            link: "https://github.com/Inkuantum/50-projects-in-50-days",
+          },
+        },
+        {
+          id: 5,
+          title: "Gary The Snail",
+          img: require("../assets/projects/garry-the-snail.png"),
+          description:
+            `It visualizes your Twitter follower count on your Twitter banner in a creative way. A snail will move along the road between two signs. The snail is representing your follower count and signs are representing the range of followers you specify.`,
+          demo: {
+            text: "Demo",
+            link: "https://twitter.com/Inkuantum",
+          },
+          code: {
+            text: "Code",
+            link: "https://github.com/Inkuantum/gary-the-snail",
+          },
+        },
+        {
+          id: 6,
+          title: "Holo Weather",
+          img: require("../assets/projects/holo-weather.png"),
+          description:
+            `Find out about the weather in your neighbourhood with this web app. The app was built with Vue and utilizes WeatherAPI to display a proper weather forecast with a glassmorphism design.`,
+          demo: {
+            text: "Demo",
+            link: "https://holo-weather.netlify.app/",
+          },
+          code: {
+            text: "Code",
+            link: "https://github.com/Inkuantum/holo-weather",
+          },
+        },
+        {
+          id: 7,
+          title: "Ukulele CSS",
+          img: require("../assets/projects/uke.png"),
+          description:
+            `It's my first CSS art. Additionally with the help of JavaScript, I've added some functionality to it.`,
+          demo: {
+            text: "Demo",
+            link: "https://ukulele-css.netlify.app/",
+          },
+          code: {
+            text: "Code",
+            link: "https://github.com/Inkuantum/ukulele-css",
           },
         },
       ],
@@ -155,6 +226,8 @@ h3 {
   margin-bottom: 40px;
   color: #fff;
   padding: 0 80px;
+  text-align: start;
+  min-height: 125px;
 }
 
 a {

@@ -8,8 +8,8 @@
     <h3>
       It is desirable to contact me via
       <span class="highlight">Twitter</span>
-      or <span class="highlight">e-mail</span> but if you like, feel free to
-      check out my other social media.
+      or <span class="highlight">e-mail</span>. If you like, feel free to
+      check out my other social media. 👇
     </h3>
   </div>
 </template>
